@@ -1,0 +1,14 @@
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\bin\Debug\FACEBOOKI_API_TH3.exe.config
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\bin\Debug\FACEBOOKI_API_TH3.exe
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\bin\Debug\FACEBOOKI_API_TH3.pdb
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\bin\Debug\Facebook.dll
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\bin\Debug\Facebook.xml
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.csproj.AssemblyReference.cache
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.csproj.SuggestedBindingRedirects.cache
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.Form1.resources
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.Properties.Resources.resources
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.csproj.GenerateResource.cache
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.csproj.CoreCompileInputs.cache
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.csproj.CopyComplete
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.exe
+C:\Users\duann\source\repos\FACEBOOKI_API_TH3\FACEBOOKI_API_TH3\obj\Debug\FACEBOOKI_API_TH3.pdb
